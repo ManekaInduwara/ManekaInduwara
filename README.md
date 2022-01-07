@@ -37,6 +37,8 @@
 
 <br/>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/manekainduwara)
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -68,5 +70,3 @@ const thai = {
 <a href="killerfake8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-killerfake8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/manekainduwara)
