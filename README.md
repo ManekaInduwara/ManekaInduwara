@@ -3,9 +3,6 @@
 
 <h2> Hey there! I'm Maneka.</h2>
 
-
-  ![](https://img.shields.io/youtube/channel/subscribers/UCwBvg7XkM850axRHFo3CdDQ?style=social)
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -68,6 +65,7 @@ const thai = {
 
 <p align="center">
 <a href="https://killertechadmin.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-killertechadmin.blogspot.com-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.youtube.com/channel/UCwBvg7XkM850axRHFo3CdDQ"><img alt="Youtube Channel" src="https://camo.githubusercontent.com/5b119318fbebe1addad632cfe9ab39ef28513ab87832967999f0b38d17002611/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f55437742766737586b4d38353061785248466f33436444513f7374796c653d736f6369616c"></a>
 <a href="https://www.linkedin.com/in/maneka-induwara-82677121a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maneka%20Induwara%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/fakekiller_dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fakekiller_dev-blue?style=flat-square&logo=instagram"></a>
 <a href="killerfake8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-killerfake8@gmail.com-blue?style=flat-square&logo=gmail"></a>
