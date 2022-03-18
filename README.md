@@ -3,6 +3,9 @@
 
 <h2> Hey there! I'm Maneka.</h2>
 
+
+  ![](https://img.shields.io/youtube/channel/subscribers/UCwBvg7XkM850axRHFo3CdDQ?style=social)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
